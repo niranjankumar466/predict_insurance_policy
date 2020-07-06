@@ -1,1 +1,1 @@
-# predict_insurance_policy
+# insurance_policy_prediction
